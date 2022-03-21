@@ -11,8 +11,5 @@
 }
 
 {
-    const product = 'smart проектор philips';
-    const amount = 5;
-    const category = 'видео техника';
-    const price = 1200;
+
 }
